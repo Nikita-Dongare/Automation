@@ -1,0 +1,4 @@
+2024-01-27 09:05:47,607 - WARNING - root  - test_UserLogin001 - 23- This is warning 
+2024-01-27 09:05:47,608 - INFO - root  - test_UserLogin001 - 24- This is Info 
+2024-01-27 09:05:47,608 - ERROR - root  - test_UserLogin001 - 25- This is error 
+2024-01-27 09:05:47,609 - CRITICAL - root  - test_UserLogin001 - 26- This is critical 
